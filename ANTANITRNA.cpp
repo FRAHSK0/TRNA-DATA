@@ -33,7 +33,7 @@ int main() {
   	
     // Output
     for (int j= 0; j < 4; ++j) {
-         float  A=0;
+         float A=0;
          float T=0;
          float C=0;
          float G=0;
