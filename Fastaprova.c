@@ -20,7 +20,7 @@ int main(void) {
 
  char bases[] = {'A','C','G','T'};
 
-    FILE *WUHAN = fopen("PRIMO SEQUENZIAMENTO.fasta", "r");
+    FILE *WUHAN = fopen("WUHAN-1.fasta", "r");
     if (WUHAN == NULL) {
         perror("Errore apertura file");
         return 1;
