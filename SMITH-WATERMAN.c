@@ -54,7 +54,7 @@ for(int riga=1 ;riga<5;riga=riga+1){
         if(z3<0) {
         z3=0;
         }
-    matrice[riga][colonna]=max(z1,z2,z3);
+    matrice[riga][colonna]=max(z1,z,z3);
         
 
 
